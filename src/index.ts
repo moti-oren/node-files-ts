@@ -1,5 +1,5 @@
 import Search from './lib/Search';
-import filters from './utils/filters';
+import filters from './extensions/filters';
 
 const { filterByName, filterByDate } = filters;
 
